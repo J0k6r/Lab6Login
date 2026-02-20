@@ -1,5 +1,5 @@
 """
-Program Name: Lab 6 - User Login
+Program Name: Lab 6 - User Login submit
 Author: Kaleb Quinn
 Purpose: simple user login system.
 Date: 2026-02-20
